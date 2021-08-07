@@ -11,7 +11,7 @@ import SwiftUI
 struct HistoricalPlacesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListContentView()
         }
     }
 }
